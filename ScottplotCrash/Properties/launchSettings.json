@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ScottplotCrash (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ScottplotCrash (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
